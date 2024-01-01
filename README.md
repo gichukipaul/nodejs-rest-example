@@ -1,4 +1,5 @@
 # nodejs-rest-example
 
-### Initialize
-#### Remember to initialize the repo with ` npm install`
+### 🚀 Getting started
+ - Clone or fork the project
+ - Initialize the repo with `npm install`
